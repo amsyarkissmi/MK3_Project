@@ -1,0 +1,60 @@
+/* cariperalatan.css */
+
+/* Page Heading Style */
+.page-heading {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+/* Search Form Style */
+.search-form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Input and Button Style */
+label {
+    font-weight: bold;
+}
+
+#serial_number {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Table Style */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Error Message Style */
+.error-message {
+    text-align: center;
+    color: red;
+    margin-top: 20px;
+}
