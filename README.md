@@ -1,6 +1,6 @@
 # MK3_Project
 
-# MUHAMMAD AMSYAR BIN KISSMI(18DDT21F1091, DDT5C) - Menyiapkan page admin dan database
+# MUHAMMAD AMSYAR BIN KISSMI(18DDT21F1091, DDT5C) - Menyiapkan page admin dan css
 
 # MOHAMMAD FAHMIE BIN FARIZAN(18DDT21F1036, DDT5C) - Menyiapkan main interface, Page pelajar dan menggabungkan semua file
 
